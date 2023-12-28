@@ -1,1 +1,1 @@
-Demo Run on this link : https://github.com/Player256/experimenting-with-llms-/blob/main/streamlit_app.py
+Demo Run on this link : https://appapppy-ujmyriffdlxd8uzpmqcfju.streamlit.app/
